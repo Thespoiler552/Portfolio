@@ -134,7 +134,7 @@ const experiences = [
   {
     title: "Bachelor 3 Administration d'infrastructures securisées",
     company_name: "ETNA",
-    icon: tesla,
+    icon: meta,
     iconBg: "#E6DEDD",
     date: "Mar 2023 - Aujourd'hui",
     points: [
@@ -146,14 +146,13 @@ const experiences = [
   },
  
   {
-    title: "Bachelor Informatique",
-    company_name: "Int'ech",
-    icon: meta,
+    title: "Bachelor 3 Cybersecurité & Business",
+    company_name: "Cyber management school",
+    icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Sep 2022 - Fev 2023",
+    date: "A partir de Septembre 2023",
     points: [
-      "Création d'un jeux-video mini pokemon en JavaScript Node.js Html Css",
-      "Projet de Formation humaine : Création d'une scène de théatre Inspiré du film Scarface.",
+      
    ],
   },
 ];
@@ -205,7 +204,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    //source_code_link: "https://github.com/",
   },
   {
     name: "Code To Work",
@@ -226,7 +225,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    //source_code_link: "https://github.com/",
   },
   {
     name: "Configuration d'un serveur de fichiers",
@@ -247,7 +246,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    //source_code_link: "https://github.com/",
   },
 ];
 
